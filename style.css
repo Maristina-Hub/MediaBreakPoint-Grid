@@ -1,0 +1,38 @@
+body {
+    background: url(Rose1.jpg) center center fixed;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    height: 80vh;
+}
+
+.rowheight{
+    height: 150px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.bgc {
+    background-color: grey;
+    width: 400px;
+    height: 60px;
+opacity: 0.9;
+    
+}
+
+.footer {
+    background-color:rgb(55, 5, 102);
+    bottom: 0;
+    position: fixed;
+    color: white;
+   left: 0;
+   
+    
+}
+
+p {
+    padding: 30px;
+   
+}
